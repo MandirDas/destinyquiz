@@ -1,12 +1,16 @@
 # destinyquiz
 
-A new Flutter project.
+A new Adventure Story Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+## I learned this project from a flutter course (https://www.udemy.com/course/flutter-bootcamp-with-dart/) 
+A few things that i learned from this project:
+  1.constructor
+  2.polymorphism
+  3.inheritance
+  4.method overloading
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
